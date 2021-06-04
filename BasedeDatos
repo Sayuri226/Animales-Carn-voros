@@ -1,0 +1,1 @@
+CREATE TABLE `formulario`.`datos` ( `Nombre` TEXT NOT NULL , `Apellido paterno` TEXT NOT NULL , `Apellido materno` TEXT NOT NULL , `contraseña` TEXT NOT NULL , `id` INT(25) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
